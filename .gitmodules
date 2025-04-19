@@ -1,3 +1,12 @@
 [submodule "the-gatsby-grande"]
 	path = the-gatsby-grande
 	url = https://github.com/MLB1996/The-Gastby-Grande.git
+[submodule "customer-survey"]
+	path = customer-survey
+	url = https://github.com/MLB1996/customer-survey.git
+[submodule "website-2"]
+	path = website-2
+	url = https://github.com/MLB1996/website-2.git
+[submodule "website1"]
+	path = website1
+	url = https://github.com/MLB1996/website1.git
