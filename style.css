@@ -1,0 +1,109 @@
+@font-face {
+    font-family: 'rastanty-cortez';
+    src: url('/fonts/rastanty-cortez.woff2') format('woff2'),
+         url('/fonts/rastanty-cortez.woff') format('woff'),
+         url('/fonts/rastanty-cortez.ttf') format('truetype');
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+/* General Page Settings */
+body {
+    font-family: 'Poppins', sans-serif;
+
+    background-color: #fdfdfb;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+/*Navbar*/
+nav{position: fixed;
+    width: 25%;
+    background-color: #c27ba0}
+nav ul{  list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #c27ba0;
+    height: 100%; /* Full height */
+    position: fixed; /* Make it stick, even on scroll */
+    overflow: auto; /* Enable scrolling if the sidenav has too much content */
+    width: 25%;}
+ nav li a {
+        display: block;
+        color: #000;
+        padding: 8px 16px;
+        text-decoration: none;
+      }
+
+/* Section Layouts */
+section {
+    padding: 40px 20px;
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    margin-bottom: 30px;
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+    color: #c27ba0;
+    font-weight: 300;
+    margin-bottom: 1px;
+    font-family: 'rastanty-cortez', cursive;
+}
+
+h2 {
+    font-size: 2rem;
+    border-bottom: 2px solid #ffe6e1;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+}
+
+h3 {
+    margin-top: 20px;
+}
+
+h4 {
+    margin-top: 15px;
+}
+
+/* Lists */
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    margin-top: 10px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+/* Buttons */
+button, .button {
+    background-color: #c27ba0;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+}
+
+button:hover, .button:hover {
+    background-color: #a35f88;
+}
+
+/* Links */
+a {
+    color: #a39ec9;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+a:hover {
+    color: #8e86c5;
+    text-decoration: underline};

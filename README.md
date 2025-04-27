@@ -1,8 +1,10 @@
-## Projects
+# My Portfolio
 
-Here are some of my repositories:
+Welcome to my portfolio! Below are links to some of my projects:
 
-1. [The Gatsby Grande](https://github.com/MLB1996/The-Gastby-Grande)
-2. [Customer Survey](https://github.com/MLB1996/customer-survey)
-3. [Website 2](https://github.com/MLB1996/website-2)
-4. [Website 1](https://github.com/MLB1996/website1)
+## Websites:
+
+1. [Website1](https://github.com/MLB1996/Website1)  
+   A website project showcasing my web development skills.
+
+Feel free to explore the code and see how I built the site!
